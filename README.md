@@ -7,8 +7,9 @@
 Develop and host a web page using HTML, CSS and Javascript that showcases specific personal and real time data attributes.Each required element should have a specified data-testid attribute for easy identification and testing.
 > ## Requirements
 > > Slack Name
-> > > *Display your name prominently
-> > > *Attribute: data-testid="slackUserName"
+> > > Display your name prominently
+> > > Attribute: data-testid="slackUserName"
+> > > 
 > > Slack Display Picture
 > > Current Day of the Week
 > > Current UTC time
