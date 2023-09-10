@@ -1,12 +1,5 @@
-     # Slack Personal Porfolio Giveso1️⃣
+# Slack Personal Porfolio Giveso1️⃣
 ### Frontend task one of stage one
-
-
-
-
-
-
-
 
 ## Task
 **Frontend page Creation with specific elements**
@@ -15,75 +8,6 @@ Develop and host a web page using HTML, CSS and Javascript that showcases specif
 > ## Requirements
 > > Slack Name
 > > > Display your name prominently   
-> > > Attribute: data-testid="slackUserName"                                                                     
-> > > 
-> > Slack Display Picture
-> > Current Day of the Week
-> > Current UTC time
-> > Track 
-> > GitHub UR# Slack Personal Porfolio Giveso1️⃣
-### Frontend task one of stage one
-
-
-
-
-
-
-
-
-## Task
-**Frontend page Creation with specific elements**
-## Objective
-Develop and host a web page using HTML, CSS and Javascript that showcases specific personal and real time data attributes. Each required element should have a specified data-testid attribute for easy identification and testing.
-> ## Requirements
-> > Slack Name
-> > > Display your name prominently      
-> > > Attribute: data-testid="slackUserName"                                                                     
-> > > 
-> > Slack Display Picture
-> > Current Day of the Week
-> > Current UTC time
-> > Track 
-> > GitHub URL     # Slack Personal Porfolio Giveso1️⃣
-### Frontend task one of stage one
-
-
-
-
-
-
-
-
-## Task
-**Frontend page Creation with specific elements**
-## Objective
-Develop and host a web page using HTML, CSS and Javascript that showcases specific personal and real time data attributes. Each required element should have a specified data-testid attribute for easy identification and testing.
-> ## Requirements
-> > Slack Name
-> > > Display your name prominently   
-> > > Attribute: data-testid="slackUserName"                                                                     
-> > > 
-> > Slack Display Picture
-> > Current Day of the Week
-> > Current UTC time
-> > Track 
-> > GitHub UR# Slack Personal Porfolio Giveso1️⃣
-### Frontend task one of stage one
-
-
-
-
-
-
-
-
-## Task
-**Frontend page Creation with specific elements**
-## Objective
-Develop and host a web page using HTML, CSS and Javascript that showcases specific personal and real time data attributes. Each required element should have a specified data-testid attribute for easy identification and testing.
-> ## Requirements
-> > Slack Name
-> > > Display your name prominently      
 > > > Attribute: data-testid="slackUserName"                                                                     
 > > > 
 > > Slack Display Picture
@@ -91,3 +15,29 @@ Develop and host a web page using HTML, CSS and Javascript that showcases specif
 > > Current UTC time
 > > Track 
 > > GitHub URL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
