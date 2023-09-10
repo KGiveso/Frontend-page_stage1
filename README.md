@@ -8,7 +8,7 @@ Develop and host a web page using HTML, CSS and Javascript that showcases specif
 > ## Requirements
 > > Slack Name
 > > > Display your name prominently
-> > > 
+> > > Attribute: data-testid="slackUserName"
 > > Slack Display Picture
 > > Current Day of the Week
 > > Current UTC time
