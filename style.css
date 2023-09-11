@@ -11,6 +11,9 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 0 20px;
 }
 
 /* General */
@@ -62,7 +65,6 @@ footer {
 }
 
 button {
-  button {
   cursor: pointer;
   font-size: 25px;
   padding: 25px 75px;
@@ -71,6 +73,17 @@ button {
   font-weight: 600;
   outline: none;
   border: none;
+  background-color: #ffffff;
+  color: #171717;
+  border-radius: 50px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease-in-out;
+}
+
+button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+}
 }
 
 .stripe {
@@ -87,8 +100,6 @@ button {
 
 .stripe:hover {
   background-position: 150px;
-}
-  
 }
 
 button a {
