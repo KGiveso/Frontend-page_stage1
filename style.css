@@ -53,7 +53,18 @@ h2 {
 
 button {
   background-color: $color-primary;
-  color:
+}
+  .github-link button {
+  background-color: #20b2aa;
+  border: 2px solid #20b2aa;
+  color: #fff;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.github-link button:hover {
+  background-color: #33cc99;
+  border-color: #33cc99;
 }
 
 footer {
