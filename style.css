@@ -66,8 +66,8 @@ footer {
 
 button {
   cursor: pointer;
-  font-size: 25px;
-  padding: 25px 75px;
+  font-size: 20px;
+  padding: 15px 30px;
   text-decoration: none;
   text-transform: uppercase;
   font-weight: 600;
@@ -75,14 +75,14 @@ button {
   border: none;
   background-color: #ffffff;
   color: #171717;
-  border-radius: 50px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border-radius: 30px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
   transition: all 0.3s ease-in-out;
 }
 
 button:hover {
   transform: scale(1.05);
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.4);
 }
 }
 
